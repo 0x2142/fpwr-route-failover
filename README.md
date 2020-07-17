@@ -4,6 +4,8 @@ This is a script to perform automated monitoring & failover of a FirePower appli
 
 With work from home being more of a thing recently, having a reliable internet connection has suddenly become more important. I wrote this to automatically fail over my home internet connection to an external LTE modem if there were any connectivity issues (Which happens more often than one would hope).
 
+Additional info in my [blog post](https://0x2142.com/cisco-firepower-automating-cellular-failover/)
+
 ## What it does
 
 There are two modules to this script: 
