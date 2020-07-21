@@ -19,7 +19,7 @@ There are two modules to this script:
 1. Clone repo
 2. Install requirements.txt
 3. Fill out options.json
-4. Set up cron to run at your preferred interval
+4. Set up cron to run `pathmonitor.py` at your preferred interval
 
 ## Required options.json
 
