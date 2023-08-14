@@ -1,5 +1,7 @@
 # Firepower ISP Monitoring & Failover
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 This is a script to perform automated monitoring & failover of a FirePower appliance's primary internet connection. Upon exeeding pre-defined thresholds for packet loss & latency, we can inject a static route to a secondary internet connection. Automatic fail-back to the primary is performed once loss/latency returns to normal.
 
 With work from home being more of a thing recently, having a reliable internet connection has suddenly become more important. I wrote this to automatically fail over my home internet connection to an external LTE modem if there were any connectivity issues (Which happens more often than one would hope).
